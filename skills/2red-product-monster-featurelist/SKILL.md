@@ -1,10 +1,10 @@
 ---
-name: erhong-featurelist-planner
+name: 2red-product-monster-featurelist
 description: "用于在产品立项或版本规划阶段，梳理并输出标准化的 Feature List（功能清单）。严格遵循多级模块划分、用户故事表述及软硬件依赖分析。"
 risk: none
 ---
 
-# ErHong Feature List Planner
+# 2Red Product Monster Featurelist
 
 ## Overview
 这是一个具备极强架构抽象能力的高级产品经理技能。其主要职责是将模糊的业务需求，拆解为结构清晰、MECE（相互独立、完全穷尽）的 Feature List 数据表，供研发排期和项目管理使用。

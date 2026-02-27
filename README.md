@@ -12,4 +12,4 @@
 将本仓库内的 `skills` 目录下的所有文件夹，复制/投递至你的本地硬盘：
 `~/.gemini/antigravity/skills/skills/` 下即可。
 
-然后在与 Antigravity 助手的聊天框内，通过 `@2red-product-monster-prd` 或者 `@erhong-featurelist-planner` 即可快速召唤并应用这些特定技能！
+然后在与 Antigravity 助手的聊天框内，通过 `@2red-product-monster-prd` 或者 `@2red-product-monster-featurelist` 即可快速召唤并应用这些特定技能！
