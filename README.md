@@ -1,6 +1,6 @@
 # Kira Product Monster Skills
 
-这里是 Kira 专属的高阶产品大牛（Product Monster）技能集，用于 Antigravity 智能体助手。
+这里是 Kira 专属的产品经理（Product Monster）技能集，用于 Antigravity 智能体助手。
 
 ## 包含的技能
 
